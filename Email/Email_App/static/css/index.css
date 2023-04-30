@@ -1,0 +1,10 @@
+.main{
+    margin-top: 50px;
+    border: 1px solid gray;
+    padding: 50px;
+    font-size: 20px;
+}
+
+form{
+    width: 600;
+}
